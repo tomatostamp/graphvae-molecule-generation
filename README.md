@@ -48,7 +48,7 @@ Loss consists of:
 ## Future Scope
 - Conditional generation based on IC50 or bioactivity.
 - Extend to multi-target drug discovery task using other datasets like QM9, ZINC250K etc.
-- Use autoregressive of flow based decoders.
+- Use autoregressive or flow based decoders.
 - Fine tune generation using reinforcement learning.
 
 ## Requirements
